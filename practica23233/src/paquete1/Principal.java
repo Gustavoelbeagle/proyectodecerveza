@@ -11,7 +11,7 @@ public class Principal {
 
 		Simio miSimio =new Simio ("Lulu","Diego");
 	
-
+     miSimio.MandarMensaje();
 
 	}
 
